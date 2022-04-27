@@ -1,62 +1,35 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Project Name  : Mobile website Portolio
 
-> Description the project.
+> This project is aa link between me and who would be my employer and any other interested party. It describes me, my coding and professional skills. 
+> It also provides a links to my contact information, particularly, email, linkedIn and Twitter accounts. 
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML and CSS
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
+Chrome or Firefox or any browser which is up-to-date
 
-### Setup
-
-### Install
+## setting up and running the software product 
+- After cloning it (https://github.com/Lasten-Ernest/Portfolio.git).
+- The user only requires the browser and click on the index.html and the application will launch.
 
 ### Usage
-
-### Run tests
-
-### Deployment
-
+When it launches, just navigate to parts you need and click on the links to navogate to other information.
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ernest Lasten**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Lasten-Ernest](https://github.com/Lasten-Ernest)
+- Twitter: [@LastenErnest](https://twitter.com/LastenErnest)
+- LinkedIn: [ernestlasten](https://linkedin.com/in/ernestlasten)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -64,10 +37,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse success team for resources (HTLM/CSS linters and many more) advice and Inspiration
 
-## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
