@@ -1,72 +1,42 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Project Name : MOBILE PORTFOLIO WEBSITE
 
 > Description the project.
+# Thia is a mobile portfolio website for Ernest Lasten, a web developer.
+It contains information about his projects, skills, experience and includes his contact details. 
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML AND CSS
+- JAVASCRIPT
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+** To use this project, just clone it into your computer
+** open it with your presefered browser.
 
 
-To get a local copy up and running follow these simple example steps.
+## Author
 
-### Prerequisites
+👤 **Ernest Lasten**
 
-### Setup
+- GitHub: [@Lasten-Ernest](https://github.com/Lasten-Ernest)
+- Twitter: [@ErnestLasten](https://twitter.com/ErnestLasten)
+- LinkedIn: [ernestlasten](https://linkedin.com/in/ernestlasten)
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
